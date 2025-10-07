@@ -1,10 +1,4 @@
-### 📈 BULLWAVE STOCK MARKET APP 📈
-
-<p align="center">
-  <img src="./public/assets/images/dashboard1.png" alt="Bullwave Stock Market App Banner" width="100%" />
-</p>
-
-<h1 align="center">📈 Bullwave - Stock Market App</h1>
+<h1 align="center">📈 Bullwave - Stock Market App 📈</h1>
 
 <p align="center">
   <b>Alerts • Charts • AI Insights</b>  
