@@ -1,5 +1,28 @@
 ### 📈 BULLWAVE STOCK MARKET APP 📈
 
+<p align="center">
+  <img src="./public/assets/images/dashboard1.png" alt="Bullwave Stock Market App Banner" width="100%" />
+</p>
+
+<h1 align="center">📈 Bullwave - Stock Market App</h1>
+
+<p align="center">
+  <b>Alerts • Charts • AI Insights</b>  
+  <br>
+  Build & Deploy a <b>Stock Market App</b> with modern tools — Real-time analytics, AI summaries, and automated alerts.
+</p>
+
+<p align="center">
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+  <a href="https://www.better-auth.com/"><img src="https://img.shields.io/badge/Better%20Auth-4F46E5?style=for-the-badge&logo=auth0&logoColor=white" /></a>
+  <a href="https://ui.shadcn.com/"><img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /></a>
+  <a href="https://www.inngest.com/"><img src="https://img.shields.io/badge/Inngest-0E76A8?style=for-the-badge&logo=inngest&logoColor=white" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://coderabbit.ai/"><img src="https://img.shields.io/badge/CodeRabbit-A855F7?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+</p>
+
 ## 📋 Introduction
 Bullwave - A modern stock market web build with NextJS, Shadcn, Better Auth and Inngest. Track real-time prices, set personalized alerts, explore company insights, and manage watchlists. The admin dashboard allows managing stocks, publishing news, and monitoring alerts, AI-driven daily digests, earnings notifications. 
 
