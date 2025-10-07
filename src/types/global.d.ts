@@ -102,6 +102,14 @@ declare global {
         }>;
     };
 
+    export interface UserForNewsEmail {
+        id: string;
+        email: string;
+        name: string;
+        country?: string;
+      }
+       
+
     type WatchlistButtonProps = {
         symbol: string;
         company: string;
