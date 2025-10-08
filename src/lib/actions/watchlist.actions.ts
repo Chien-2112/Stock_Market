@@ -4,7 +4,8 @@ import { connectToDatabase } from '@/database/mongoose';
 import { Watchlist } from '@/database/models/watchlist.model';
 
 /**
- * Return a user's watchlist symbols by their email. If user not found or errors occur, returns an empty array.
+ * Return a user's watchlist symbols by their email. 
+ * If user not found or errors occur, returns an empty array.
 */
 export async function getWatchlistSymbolsByEmail(email: string): Promise<string[]> {
   if (!email) return [];

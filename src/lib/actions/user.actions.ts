@@ -2,6 +2,7 @@
 
 import {connectToDatabase} from "@/database/mongoose";
 
+// GET ALL USERS FOR NEWS EMAIL.
 export const getAllUsersForNewsEmail = async () => {
     try {
         const mongoose = await connectToDatabase();
